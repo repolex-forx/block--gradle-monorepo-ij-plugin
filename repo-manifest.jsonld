@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/gradle-monorepo-ij-plugin/commit/a485c87aff20d3a9bb1799559ae3d94f3142aa36",
       "git:hexsha": "a485c87aff20d3a9bb1799559ae3d94f3142aa36",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.28"
     },
     {
