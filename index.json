@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "gradle-monorepo-ij-plugin",
+  "versions": [
+    {
+      "commit": "a485c87aff20d3a9bb1799559ae3d94f3142aa36",
+      "tag": "main",
+      "parsed_at": "2026-10-02T11:29:27.930297+00:00"
+    }
+  ]
+}
