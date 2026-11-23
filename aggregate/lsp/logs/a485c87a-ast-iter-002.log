@@ -1,0 +1,6 @@
+[2026-11-23T05:54:47Z] === AST ITERATION 2 START | repo=block/gradle-monorepo-ij-plugin sha=a485c87a ===
+[2026-11-23T05:54:47Z] [iter=2] PHASE START: ast repo=block/gradle-monorepo-ij-plugin sha=a485c87a
+[2026-11-23T05:54:47Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/a485c87aff20d3a9bb1799559ae3d94f3142aa36
+[2026-11-23T05:54:47Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a485c87aff20d3a9bb1799559ae3d94f3142aa36/.complete
+[2026-11-23T05:54:47Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-11-23T05:54:47Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
